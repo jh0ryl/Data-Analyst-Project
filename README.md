@@ -6,7 +6,7 @@ To find the the most demanded skills for the top 3 most popular data roles, I cr
 
 ### Results 
 
-![Visualization of Top Skills Data Roles](images\skills_count.png) 
+![Visualization of Top Skills Data Roles](images/skills_count.png) 
 
 ## Insights 
 
