@@ -8,60 +8,30 @@ To find the the most demanded skills for the top 3 most popular data roles, I cr
 
 ![Visualization of Top Skills Data Roles](images/skills_count.png) 
 
-## Insights 
+# Insights 
 
 ## The Data Industry in the Philippines Is Still Analyst-Heavy
 
-The dominance of Excel and SQL suggests that many companies still operate at a traditional or intermediate analytics maturity level, where dashboards and reporting are the core responsibilities.
+The dominance of Excel and SQL suggests that many companies still operate at a traditional or intermediate analytics maturity level, where dashboards and reporting are the core responsibilities. 
 
-## 1. Universal Skills: Excel & SQL
+- Excel and SQL remain the core foundation across data roles, showing that the Philippine job market is still heavily focused on traditional analytics and reporting, with both Business Analysts and Data Analysts relying on these skills the most, and SQL serving as the backbone of Data Engineering work.
 
-### Across Business Analyst and Data Analyst roles, and still relevant for Data Engineers:
+- Visualization and communication tools (Tableau, Power BI, PowerPoint) are strongly demanded for analyst roles, highlighting the importance of turning data into clear insights for decision-making, whereas Data Engineering shifts focus toward technical implementation rather than presentation.
 
-Excel remains a dominant skill in analyst roles
+- Python, cloud platforms (Azure, AWS), and big data technologies like Spark are concentrated in Data Engineer roles, indicating a growing shift toward modern data infrastructure, automation, and scalable data pipelines as organizations evolve their data maturity. 
 
-- Business Analyst: 49%
-- Data Analyst: 47%
+## 2. How are in-demand skills trending for Data Analyst? 
 
-SQL is critical across all data-focused roles
+To find how skills are trending in 2025 for Data Analysts, I filtered data Analyst positions and grouped the skills by month of the job postings. The result shows the the top 5 skills of data analyst per month. 
 
-Business Analyst: 36%
+### Results 
 
-- Data Analyst: 37%
-- Data Engineer: 64% (highest among all roles)
+![Trending Top skills for Data Analyst in 2024](images\skills_trend.png)  
 
-This shows that companies consistently value candidates who can handle data extraction, cleaning, and reporting.
+# Insights 
 
-## 2. Data Visualization Tools: Tableau & Power BI
+- Excel remains the most in-demand baseline skill, consistently leading all year and showing steady growth—meaning companies still expect analysts across all roles (junior, mid, senior) to be fluent in spreadsheet-based analysis.
 
-### More relevant for analyst roles, especially Business & Data Analysts:
+- SQL shows strong, cyclical spikes, reflecting that data-heavy roles (data analysts, BI analysts, and operations analysts) lean heavily on database querying during peak reporting and project periods, making SQL a non-negotiable core technical skill.
 
-Business Analyst:
-
-- Tableau: 24%
-- Power BI: 24%
-
-Data Analyst:
-
-- Tableau: 20%
-- Power BI: 19%
-
-Visualization tools are in demand but secondary to Excel/SQL. Analysts must communicate insights effectively, and these tools help create dashboards and reports.
-
-## 3. Programming Skills: Python
-
-### More common for Data Analysts and Data Engineers:
-
-- Data Analyst: 21%
-- Data Engineer: 53%
-
-Python is the bridge between analysis and engineering. Data Analysts use it for automation and advanced analytics, while Data Engineers rely on it for pipelines, ETL, and backend data work. 
-
-## 4. Cloud Skills: Azure, AWS
-
-Highly relevant for Data Engineers:
-
-- Azure: 33%
-- AWS: 26%
-
-Cloud technologies are increasingly essential for data infrastructure and modern data engineering workflows.
+- Python, Power BI, and Tableau form the “modern analytics stack”, with Python rising during technical project seasons and BI tools fluctuating but maintaining relevance—signaling that employers value analysts who can combine automation, visualization, and storytelling.
