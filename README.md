@@ -42,7 +42,7 @@ To find how skills are trending in 2025 for Data Analysts, I filtered data Analy
 
 ### Results 
 
-![Trending Top skills for Data Analyst in 2024](images\skills_trend.png)  
+![Trending Top skills for Data Analyst in 2024](images/skills_trend.png)  
 
 # Insights 
 
@@ -58,7 +58,7 @@ Here you can see, I use boxplot to visualize the salary distribution of the top 
 
 ### Results 
 
-![Salary Distribution in the Philippines](images\salary_analysis.png)   
+![Salary Distribution in the Philippines](images/salary_analysis.png)   
 
 # Insights 
 
@@ -102,7 +102,7 @@ plt.show()
 ```
 ### Results 
 
-![Highest Paid & Most Demanded Skills for Data Jobs](images\highest_paid_skills.png)    
+![Highest Paid & Most Demanded Skills for Data Jobs](images/highest_paid_skills.png)    
 
 # Insights 
 
@@ -119,7 +119,7 @@ To figure it out, i use scatter plott to to visualize the most high paying skill
 
 ### Results
 
-![Most Optimal Skills for Data Analyst in the Philippines](images\optimal_skills.png)   
+![Most Optimal Skills for Data Analyst in the Philippines](images/optimal_skills.png)   
 
 # Insights 
 
